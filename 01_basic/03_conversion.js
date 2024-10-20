@@ -16,5 +16,26 @@ let booleanIsLoggedIn=Boolean(isLoggedIn)
 //"anisur"=true
 let someNumber=33
 let stringNumber=String(someNumber)
-console.log(stringNumber);
-console.log(typeof stringNumber);
+//console.log(stringNumber);
+//console.log(typeof stringNumber);
+//**********************************Operation********************************
+/*console.log(2+2);
+console.log(2*2);
+console.log(2/2);
+console.log(2%2);
+console.log(2-2);*/
+
+
+let str1="Anisur"
+let str2="Rahman"
+let str3=str1+str2
+//console.log(str3);
+// console.log("1"+2);
+// console.log(1+"2");
+// console.log("1"+2+2);// if string first treat all as a string
+// console.log(1+2+"2");//if string last, operation perform first  the string concat
+
+
+
+
+
