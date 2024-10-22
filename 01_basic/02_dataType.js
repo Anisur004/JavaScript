@@ -18,3 +18,15 @@ console.log(typeof age)
 console.log(typeof null)
 console.log(typeof undefined)
 console.log(typeof name)
+// ******************Summary*************************
+
+// Primitive
+// 7 type: string ,number,Boolean,null,undefined, symbole,BigInt
+const id=Symbol('123')
+const anotherId=Symbol('123')
+console.log(id===anotherId);//not same value
+
+
+// Refrance(non premetive)
+//Array ,Object,Functions
+console.log(typeof anotherId);
