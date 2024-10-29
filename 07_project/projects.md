@@ -3,7 +3,7 @@
 
 ## Project link
 
-[Click hear](https://stackblitz.com/edit/stackblitz-starters-dqxdyk?file=index.html)
+[Click hear](https://stackblitz.com/edit/stackblitz-starters-zrngnb?file=01-colorChanger%2Fscript.js,01-colorChanger%2Fstyle.css%3AL8-L8,index.html)
 
 # Solution code
 
