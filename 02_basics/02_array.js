@@ -7,7 +7,7 @@ const dc_hero=["superman","batman","flash"]
 // const allHero=marvel_heros.concat(dc_hero)
 // console.log(allHero);
 // //another method
-// const all_new_Hero=[... marvel_heros, ...dc_hero]
+// const all_new_Hero=[... marvel_heros, ...dc_hero]// use spresd operatot
 // console.log(all_new_Hero);
 
 
