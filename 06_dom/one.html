@@ -88,7 +88,7 @@ document.querySelector('.heading')
 
 
 
-//sellectallquerySelector
+//sellectallquerySelector,it is return nodelist simlar to arry but not arry
 
 
 <!-- document.querySelectorAll('li')
@@ -102,7 +102,7 @@ const tempList=document.querySelectorAll('li')
 undefined
 tempList -->
 
-//selct elemnt by foeachloop
+//in node lis we selct elemnt by foeachloop
 <!-- const tempList=document.querySelectorAll('li')
 undefined
 tempList
@@ -113,14 +113,14 @@ tempList.forEach(function (l) {
    l.style.backgroundColor='green' 
 }) -->
 
-
-///for forEach loop not work in html collection
-
+//getElementsByClassName()return html collection
+//for forEach loop not work in html collection
+// so weconvert html into array then use forEach
 <!-- document.getElementsByClassName('list-item')
 HTMLCollection(4) [li.list-item, li.list-item, li.list-item, li.list-item]
 
 
-// so weconvert htmlinto array
+
 const tempClassList=document.getElementsByClassName('list-item')
 undefined
 Array.from(tempClassList)
